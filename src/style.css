@@ -48,3 +48,7 @@ button:focus-visible {
 #results > img {
   display: block;
 }
+
+.handContainer {
+  width: 800px;
+}
